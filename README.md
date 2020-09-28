@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 </br>
 
-![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact)](https://github.com/chenukas/github-readme-stats)
+![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true)](https://github.com/chenukas/github-readme-stats)
 </br>
 
 ### Social Links
