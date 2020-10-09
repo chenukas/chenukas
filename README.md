@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="ChenukaSumanasekara | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ChenukaSumanasekara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ChenukaSumanasekara | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackOverFlow]
+[<img align="left" alt="ChenukaSumanasekara | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV]
 
 [twitter]: https://twitter.com/ChenukaSu
 [linkedin]: https://www.linkedin.com/in/chenukas/
 [facebook]: https://www.facebook.com/chenukas
 [instagram]: https://www.instagram.com/chenukas
 [stackOverFlow]: https://stackoverflow.com/users/7865607/chenuka-sumanasekara
+[DEV]: https://dev.to/chenukas
+
