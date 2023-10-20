@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![@chenukas's Holopin board](https://holopin.io/api/user/board?user=chenukas)](https://holopin.io/@chenukas)
 </br>
 
-![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true&hide_border=true)
+![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=Contributions&text_bold=false&ring_color=881f3c)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true)](https://github.com/chenukas/github-readme-stats)
 </br>
 
