@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 <img align="left" width="150" src="https://octodex.github.com/images/welcometocat.png">
 
-> I am an undergraduate👨🏻‍🎓 who is a self-motivated and hard working🧗🏻 individual seeking experience in the field of Information Technology💻. I am reliable, dedicated, friendly😉, and able to work in a busy environment🙇🏻 and produce high standards of work. I have a creative mind👨🏻‍🎨  and am always up for new challenges. I am an enthusiastic, responsible person who can work well both in a team environment🤪 as well as using own initiative. I have good interpersonal, leadership skills🤗, and am keen and very willing to learn and develop new skills🕵🏻.
+> "🚀 Hello there, I'm Chenuka - your friendly neighborhood JavaScript sorcerer, TypeScript tamer, and React/React Native wizard! 🧙‍♂️
+
+🎉 If code were a canvas, I'd be the artist wielding a magical paintbrush called 'console.log.' 🖌️ My passion for crafting pixel-perfect user experiences and whipping up amazing web and mobile apps is only rivaled by my insatiable love for good humor.
+
+💡 They say that software engineers are good at breaking things, but I specialize in making things - from React apps that run smoother than butter on hot toast, to React Native apps that make your mobile device sing with joy.
+
+🤣 When I'm not busy weaving code spells, you'll find me conjuring up jokes that are so funny they might just crash your laughter app. 😂
+
+💼 Let's connect, collaborate, and code our way to a brighter, more entertaining digital world! Whether you need a hand in debugging, a co-conspirator for your next project, or just someone to share a good laugh with, I'm your go-to developer. Let's make software development a lot more enchanting, one line of code at a time!
+
+🔗 Check out my GitHub repository for a front-row seat to my magical coding journey. I promise it's a show you won't want to miss! 🪄🔮✨"
 
 </br>
 
