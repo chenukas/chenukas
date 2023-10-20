@@ -17,11 +17,9 @@
 [![@chenukas's Holopin board](https://holopin.io/api/user/board?user=chenukas)](https://holopin.io/@chenukas)
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&custom_title=Languages)
 ![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=Contributions&text_bold=false&ring_color=881f3c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&custom_title=Languages)
 </br>
-
-### Social Links
 
 [<img align="left" alt="ChenukaSumanasekara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ChenukaSumanasekara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
