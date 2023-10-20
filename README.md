@@ -1,33 +1,16 @@
-## Hey, I'm Chenuka Sumanasekara 👨🏻‍💻
+<img align="left" width="150" src="https://octodex.github.com/images/gangnamtocat.png">
 
-<!--
-**chenukas/chenukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🚀 Hello there, I'm Chenuka - your friendly neighborhood JavaScript sorcerer, TypeScript tamer, and React/React Native wizard! 🧙‍♂️
 
-Here are some ideas to get you started:
+> 🎉 If code were a canvas, I'd be the artist wielding a magical paintbrush called 'console.log.' 🖌️ My passion for crafting pixel-perfect user experiences and whipping up amazing web and mobile apps is only rivaled by my insatiable love for good humor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 They say that software engineers are good at breaking things, but I specialize in making things - from React apps that run smoother than butter on hot toast, to React Native apps that make your mobile device sing with joy.
 
-<img align="left" width="150" src="https://octodex.github.com/images/welcometocat.png">
+> 🤣 When I'm not busy weaving code spells, you'll find me conjuring up jokes that are so funny they might just crash your laughter app. 😂
 
-> "🚀 Hello there, I'm Chenuka - your friendly neighborhood JavaScript sorcerer, TypeScript tamer, and React/React Native wizard! 🧙‍♂️
+> 💼 Let's connect, collaborate, and code our way to a brighter, more entertaining digital world! Whether you need a hand in debugging, a co-conspirator for your next project, or just someone to share a good laugh with, I'm your go-to developer. Let's make software development a lot more enchanting, one line of code at a time!
 
-🎉 If code were a canvas, I'd be the artist wielding a magical paintbrush called 'console.log.' 🖌️ My passion for crafting pixel-perfect user experiences and whipping up amazing web and mobile apps is only rivaled by my insatiable love for good humor.
-
-💡 They say that software engineers are good at breaking things, but I specialize in making things - from React apps that run smoother than butter on hot toast, to React Native apps that make your mobile device sing with joy.
-
-🤣 When I'm not busy weaving code spells, you'll find me conjuring up jokes that are so funny they might just crash your laughter app. 😂
-
-💼 Let's connect, collaborate, and code our way to a brighter, more entertaining digital world! Whether you need a hand in debugging, a co-conspirator for your next project, or just someone to share a good laugh with, I'm your go-to developer. Let's make software development a lot more enchanting, one line of code at a time!
-
-🔗 Check out my GitHub repository for a front-row seat to my magical coding journey. I promise it's a show you won't want to miss! 🪄🔮✨"
+> 🔗 Check out my GitHub repository for a front-row seat to my magical coding journey. I promise it's a show you won't want to miss! 🪄🔮✨
 
 </br>
 
@@ -35,7 +18,7 @@ Here are some ideas to get you started:
 </br>
 
 ![Chenuka's github stats](https://github-readme-stats.vercel.app/api?username=chenukas&show_icons=true&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=Contributions&text_bold=false&ring_color=881f3c)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true)](https://github.com/chenukas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenukas&layout=compact&hide_border=true&title_color=adbac7&icon_color=881f3c&text_color=304b4e&theme=transparent&custom_title=Languages)](https://github.com/chenukas/github-readme-stats)
 </br>
 
 ### Social Links
